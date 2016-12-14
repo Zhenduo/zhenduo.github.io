@@ -1,11 +1,11 @@
 p {
-	color: rgb(8,161,236);
+	color: rgb(255,90,0);
 	font-family: Verdana;
 	font-size: 50px;
 	text-align: center;
 }
 p1 {
-	color: rgb(16,197,236);
+	color: rgb(251,139,0);
 	font-family: Verdana;
 	font-size: 40px;
 	text-align: center;
@@ -17,7 +17,7 @@ p2 {
 	text-align: left;
 }
 p3 {
-	color: rgb(90,201,244);
+	color: rgb(255,193,0);
 	font-family: Verdana;
 	font-size: 30px;
 	text-align: left;
