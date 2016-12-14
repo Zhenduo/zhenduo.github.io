@@ -22,3 +22,6 @@ p3 {
 	font-size: 30px;
 	text-align: left;
 }
+div.First {
+	background: rgba(255, 255, 255, 0.6);
+}
