@@ -22,9 +22,8 @@ p3 {
 	font-size: 30px;
 	text-align: left;
 }
-div.first {
+div {
 	background: rgb(255, 255, 255);
 	height: auto;
 	width: auto;
 }
-
