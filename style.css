@@ -12,10 +12,11 @@ p2 {
 	color: black;
 	font-size: 30px;
 	text-align: left;
+}
 p3 {
-	color: black;
+	color: red;
 	font-size: 30px;
-	text-align: center;
+	text-align: left;
 }
 
 
