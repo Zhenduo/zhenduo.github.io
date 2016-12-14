@@ -5,8 +5,8 @@ p {
 }
 p1 {
 	color: black;
-	font-size: 30px;
-	text-align: center;
+	font-size: 40px;
+	text-align: left;
 }
 p2 {
 	color: black;
@@ -18,4 +18,5 @@ p3 {
 	font-size: 30px;
 	text-align: center;
 }
+
 
