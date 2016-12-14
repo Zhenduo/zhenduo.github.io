@@ -1,22 +1,24 @@
 p {
 	color: rgb(8,161,236);
+	font-family: Verdana;
 	font-size: 50px;
 	text-align: center;
 }
 p1 {
 	color: rgb(16,197,236);
+	font-family: Verdana;
 	font-size: 40px;
 	text-align: center;
 }
 p2 {
 	color: black;
+	font-family: Verdana;
 	font-size: 30px;
 	text-align: left;
 }
 p3 {
 	color: rgb(90,201,244);
+	font-family: Verdana;
 	font-size: 30px;
 	text-align: left;
 }
-
-
