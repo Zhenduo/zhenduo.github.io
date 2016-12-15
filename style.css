@@ -25,7 +25,13 @@ p3 {
 p.p4 {
 	color: rgb(0, 0, 0);
 	font-family: Verdana;
-	font-size:30px;
+	font-size:20px;
+	text-align: center;
+}
+p.p5 {
+	color: rgb(0, 0, 0);
+	font-family: Verdana;
+	font-size:20px;
 	text-align: center;
 }
 div {
